@@ -1,5 +1,5 @@
 # IA-medicina-PUCE
-Repositorio donde tendremos documentación asociada a escritos del departamento de investigación de la facultad de medicina de la PUCE. 
+Repositorio que contiene la revisión bibliográfica y las reflexiones que se desprenden de ella sobre la evolución del concepto de INFERENCIA CAUSAL, elaborado por profesores de la Facultad de Medicina de la PUCE-Quito
 
 Va a contener la siguiente estructura de carpetas:
 

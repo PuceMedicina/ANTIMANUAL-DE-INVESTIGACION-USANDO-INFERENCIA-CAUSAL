@@ -1,4 +1,4 @@
-# Antimanual de Investigación de la PUCE
+# Antimanual de Investigación usando Inferencia Causal
 
 ![alt text](https://github.com/PuceMedicina/IA-medicina-PUCE/blob/main/ia_medicina.jpeg)
 

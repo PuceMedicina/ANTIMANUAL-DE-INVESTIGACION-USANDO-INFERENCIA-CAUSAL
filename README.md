@@ -1,6 +1,5 @@
 # Antimanual de Investigación usando Inferencia Causal.
 
-![alt text](https://github.com/PuceMedicina/IA-medicina-PUCE/blob/main/ia_medicina.jpeg)
 
 Repositorio que contiene la revisión bibliográfica y las reflexiones que se desprenden de ella sobre la evolución del concepto de INFERENCIA CAUSAL, elaborado por profesores de la Facultad de Medicina de la PUCE-Quito
 
